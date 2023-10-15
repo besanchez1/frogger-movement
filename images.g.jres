@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAABwAHB3dwAHAHdwd3d3d3cAcHd3d3d3BwB3d3cRcXd3AAB3d4FxBwcAAHd3EXEHAAAAd3d3dzMDAAB3d3d3MwMAAHd3EXEHAAAAd3eBcQcHAHd3dxFxd3cAcHd3d3d3BwB3cHd3d3d3AHAAcHd3AAcAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Frogger"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}

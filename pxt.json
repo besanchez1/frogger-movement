@@ -1,0 +1,29 @@
+{
+    "name": "Frogger",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-skillmap-sample": "github:microsoft/pxt-skillmap-sample#b36c62725e3fe26fca25b64cf158878b5fccd9be"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.41",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
